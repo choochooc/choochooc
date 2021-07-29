@@ -1,0 +1,3 @@
+- hello, im chooc
+- learning lua
+- working on some random stuff
