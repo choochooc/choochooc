@@ -1,3 +1,2 @@
 - hello, im chooc
-- learning lua
-- working on some random stuff
+im getting into scripting but for now im chilling
